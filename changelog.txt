@@ -1,5 +1,7 @@
 == Changelog ==
 
+--- Stuff not in plugin ---
+
 = 6.3.1 2022-03-10 =
 
 **WooCommerce**
