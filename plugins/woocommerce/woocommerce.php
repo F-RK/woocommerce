@@ -14,6 +14,8 @@
  * @package WooCommerce
  */
 
+// ¯\_(ツ)_/¯
+
 defined( 'ABSPATH' ) || exit;
 
 if ( ! defined( 'WC_PLUGIN_FILE' ) ) {
